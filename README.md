@@ -1,4 +1,4 @@
-# taver to kingdom
+# Tavern To Kingdom
 ## oyun hakkında
 
 Oyunun başlangıcında sadece 1 masa ve sandalyemiz olacak, müşteri boş sandalyeye geldiğinde kafasında ünlem işareti çıkınca ona E tuşu ile içki satarak para kazanacağız. Oyun başında 1 adet içki olacak ve onu servis ettikten sonra elimizde içki kalmayacağı için içki satıcısından içki satın alıp müşterilere satacağız (10 golda 1 içki alıp 15 golda satılacak).
